@@ -1,0 +1,12 @@
+{
+  "name": "CursoNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GASJW/CursoNode.git",
+  "author": "GASJW <guilhermeguto5@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
