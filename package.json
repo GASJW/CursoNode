@@ -1,12 +1,25 @@
 {
-  "name": "CursoNode",
+  "name": "cursonode",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/GASJW/CursoNode.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GASJW/CursoNode.git"
+  },
   "author": "GASJW <guilhermeguto5@gmail.com>",
   "license": "MIT",
   "private": false,
   "dependencies": {
     "bootstrap": "^5.3.3"
-  }
+  },
+  "description": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GASJW/CursoNode/issues"
+  },
+  "homepage": "https://github.com/GASJW/CursoNode#readme"
 }
